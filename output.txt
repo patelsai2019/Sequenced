@@ -1,0 +1,12 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50064:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/saipatel/IdeaProjects/sequenced/out/production/sequenced Main
+The perfect squares are: 
+1 4 9 16 25 36 49 64 81 100 
+The perfect cubes are: 
+1 8 27 64 125 216 343 512 729 1000 
+The Fibonacci numbers are: 
+1 2 3 5 8 13 21 34 55 89 
+The prime numbers are: 
+2 3 5 7 11 13 17 19 23 29 
+The triangle numbers are: 
+1 3 6 10 15 21 28 36 45 55 
+Process finished with exit code 0
